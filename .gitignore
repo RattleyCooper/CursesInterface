@@ -1,0 +1,12 @@
+.env
+.idea*
+*.gif
+test.py
+test2.py
+detect_keys.py
+*.pyc
+.DS_STORE
+__pychache__*
+dist*
+build*
+__temp.py
